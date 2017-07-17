@@ -12,3 +12,6 @@ Folgende Aufgaben wurden bearbeitet und sind in der Repository vorhanden:
     - Aufgabe 01
     - Aufgabe 02
     - Aufgabe 03
+    
++   Blatt 02
+    - Aufgabe Pixel-Tetris
