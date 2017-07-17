@@ -2,4 +2,11 @@
 
 Quellcode zu den Übungsaufgaben der Vorlesung Programmieren 2 in der Medizinischen Informatik an der Hochschule Regensburg.
 
-Die hier genannten Lösungen garantieren weder eine volle Punktzahl bei ähnlichen Aufgabenstellungen, noch wurden sie von einem offiziellen Prüfer bewertet. Sie dienen jediglich als Hilfestellung!
+Die hier genannten Lösungen garantieren weder eine volle Punktzahl bei ähnlichen Aufgabenstellungen, noch wurden sie von einem offiziellen Prüfer bewertet. Sie dienen jediglich als **Hilfestellung**!
+
+## Lösungen
+
+Folgende Aufgaben wurden bearbeitet und sind in der Repository vorhanden:
+
++   Blatt 01
+    - Aufgabe 01
