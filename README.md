@@ -10,3 +10,4 @@ Folgende Aufgaben wurden bearbeitet und sind in der Repository vorhanden:
 
 +   Blatt 01
     - Aufgabe 01
+    - Aufgabe 02
