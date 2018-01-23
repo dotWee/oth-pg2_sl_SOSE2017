@@ -18,3 +18,7 @@ Folgende Aufgaben wurden bearbeitet und sind in der Repository vorhanden:
     
 +   Blatt 03
     - Aufgabe Pixel-Tetris
+
+## Beispiele
+
++   [Memory & Threads](/examples/memory-threads)
